@@ -1,6 +1,7 @@
-<h2>Hi, I am Dash</h2>
+<h3>Hi, I'm Dash!</h3>
 
-- 👋 Hi, I’m @OP-dash
-- 👀 I’m interested in CTF
-- 📫 Feel free to hit me up at danialaniq2002@gmail.com
+Student at <a href="https://www.iium.edu.my/" > International Islamic University Malaysia </a><br>
+Currently studying Computer Science<br>
+Looking Forward to Specialize in Cyber Security
+
 
