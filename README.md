@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Dash! 👋</h1>
-<h3 align="center">Cybersecurity Enthusiast | Developer | Tech Explorer</h3>
+<h3 align="center">Cybersecurity Enthusiast | Tech Explorer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=echo+%22Nothing+is+impossible%22;echo+%22One+day+or+day+one%22" alt="Typing animation" />
